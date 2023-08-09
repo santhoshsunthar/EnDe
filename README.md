@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/santhoshsunthar/EnDe/">
-    <img src="https://github.com/santhoshsunthar/EnDe/blob/main/logos/ende_logo.ico" alt="Logo" width="120" height="120">
+  <a href="https://github.com/santhossunthar/EnDe/">
+    <img src="https://github.com/santhossunthar/EnDe/blob/main/logo/ende_logo.ico" alt="Logo" width="120" height="120">
   </a>
 
   <h1 align="center">EnDe</h1>
@@ -44,7 +44,7 @@ EnDe is a GUI based Password Manager. Do you use text file encryption tools or u
   pip install pycryptodomex
 ```
 3. hashlib and sqlite3 were used from python built-in libraries. Making sure, you have these libraries.
-4. Run the program via [ende.py](https://github.com/santhoshsunthar/EnDe/blob/main/ende.py) file.
+4. Run the program via [ende.py](https://github.com/santhossunthar/EnDe/blob/main/ende.py) file.
 
 ## Usage
 ![EnDeUsage](https://user-images.githubusercontent.com/88458150/133385313-0d9d0230-ede8-4641-9b2d-acf3a394bb19.gif)
@@ -61,10 +61,15 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the GNU Affero General Public License v3.0.  See [`LICENSE`](https://github.com/santhoshsunthar/EnDe/blob/main/LICENSE.md) for more information.
+Distributed under the GNU Affero General Public License v3.0.  See [`LICENSE`](https://github.com/santhossunthar/EnDe/blob/main/LICENSE.md) for more information.
 
 ## Contact
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/santhossunthar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://twitter.com/santhossunthar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:santhoshsunthar@gmail.com?subject=Hello%20Santhos,%20From%20GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p> 
 
-Santhosh - [@santhoshsunthar](https://twitter.com/santhoshsunthar) - [LinkedIn](https://www.linkedin.com/in/santhosh-sunthar-896740218/) - santhoshsunthar@gmail.com 
+<p>Project Link: <a href="https://github.com/santhossunthar/EnDe">https://github.com/santhossunthar/EnDe</a></p>
 
 Project Link: [https://github.com/santhoshsunthar/EnDe](https://github.com/santhoshsunthar/EnDe)
