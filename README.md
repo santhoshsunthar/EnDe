@@ -64,12 +64,10 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the GNU Affero General Public License v3.0.  See [`LICENSE`](https://github.com/santhossunthar/EnDe/blob/main/LICENSE.md) for more information.
 
 ## Contact
-<p align="center">
+<p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/santhossunthar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://twitter.com/santhossunthar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:santhoshsunthar@gmail.com?subject=Hello%20Santhos,%20From%20GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
 
-<p>Project Link: <a href="https://github.com/santhossunthar/EnDe">https://github.com/santhossunthar/EnDe</a></p>
-
-Project Link: [https://github.com/santhoshsunthar/EnDe](https://github.com/santhoshsunthar/EnDe)
+Project Link: [https://github.com/santhossunthar/EnDe](https://github.com/santhossunthar/EnDe)
